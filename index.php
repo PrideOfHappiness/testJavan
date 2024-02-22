@@ -13,6 +13,7 @@ $result = $conn->query($query);
 </head>
 <body>
     <h2>Data Keluarga</h2>
+    <a href="visualization.php">Lihat Diagram Silsilah</a>
     <table border="1">
         <tr>
             <th>Nama</th>
