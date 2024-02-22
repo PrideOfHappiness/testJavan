@@ -1,0 +1,6 @@
+Komposisi file dalam folder ini mencakup: 
+file detail.php, edit.php, hapus.php, index.php, koneksi.php, proses_ubah.php, dan tambah.php sebagai jawaban untuk soal nomor 1 sub-nomor 8
+(Soal: Buat aplikasi CRUD untuk silsilah keluarga).
+
+Folder API beserta isi-isinya digunakan sebagai jawaban untuk soal nomor 1 sub-nomor 10
+(Soal: Rancang dan buat API yang bisa dibuat untuk kasus di atas).
